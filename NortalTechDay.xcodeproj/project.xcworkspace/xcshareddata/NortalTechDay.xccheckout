@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9BF0AA0B-1E30-4563-87B7-CA23D31083B6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NortalTechDay</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8A5E0E9DF6B33AE491A14217E543172B8D936B72</key>
+		<string>bitbucket.org:mikkoj/nortaltechday.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NortalTechDay.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8A5E0E9DF6B33AE491A14217E543172B8D936B72</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>bitbucket.org:mikkoj/nortaltechday.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8A5E0E9DF6B33AE491A14217E543172B8D936B72</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8A5E0E9DF6B33AE491A14217E543172B8D936B72</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NortalTechDay</string>
+		</dict>
+	</array>
+</dict>
+</plist>

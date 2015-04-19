@@ -1,0 +1,256 @@
+[{
+  "id": 1,
+  "title": "Analysis",
+  "sessions": [{
+    "title": "KEYNOTE: Keynote title",
+    "startTime": "10:00",
+    "endTime": "10:45",
+    "room": "E. Wiiralt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "speakers": [{
+      "name": "",
+      "avatar": "",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "Renewed delivery process and analysis: lessons learnt in Oman",
+    "startTime": "11:00",
+    "endTime": "11:45",
+    "room": "E. Wiiralt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "speakers": [{
+      "name": "Artur Assor",
+      "avatar": "",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "UX principles - something old, something new",
+    "startTime": "12:00",
+    "endTime": "12:45",
+    "room": "L.Koidula",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "speakers": [{
+      "name": "Hegle Sarapuu",
+      "avatar": "",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "LUNCH",
+    "startTime": "12:45",
+    "endTime": "14:00",
+    "room": "K.J.Peterson",
+    "description": "Lunch is served in the K.J.Peterson hall on the 2nd floor.",
+    "speakers": [],
+    "language": ""
+  }, {
+    "title": "Business analyst's role in Price Waterhouse Coopers",
+    "startTime": "14:00",
+    "endTime": "14:45",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "room": "C.R.Jakobson II",
+    "speakers": [{
+      "name": "Mihkel Lauk",
+      "avatar": "",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "Quick start analysis",
+    "startTime": "15:00",
+    "endTime": "15:45",
+    "room": "C.R.Jakobson I",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "speakers": [{
+      "name": "Antti Haljak",
+      "avatar": "",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "Quick start analysis workshop",
+    "startTime": "16:00",
+    "endTime": "16:45",
+    "room": "C.R.Jakobson I",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "speakers": [{
+      "name": "Antti Haljak",
+      "avatar": "",
+      "twitter": ""
+    }],
+    "language": "English"
+  }]
+}, {
+  "id": 2,
+  "title": "Development",
+  "sessions": [{
+    "title": "KEYNOTE: Keynote title",
+    "startTime": "10:00",
+    "endTime": "10:45",
+    "room": "E. Wiiralt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "speakers": [{
+      "name": "",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+      "avatar": "",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "Digital signature formats in Estonia and cross-Europe TSL-s",
+    "startTime": "11:00",
+    "endTime": "11:45",
+    "room": "L.Koidula",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "speakers": [{
+      "name": "Risto Alas",
+      "avatar": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/000/214/28b/0bde059.jpg",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "Docker - Containers filled with unicorns",
+    "startTime": "12:00",
+    "endTime": "12:45",
+    "room": "C.R.Jakobson I",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "speakers": [{
+      "name": "Priit Liivak",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+      "avatar": "https://pbs.twimg.com/profile_images/459029268106731520/ZwYdV7Il.jpeg",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "LUNCH",
+    "startTime": "12:45",
+    "endTime": "14:00",
+    "room": "K.J.Peterson",
+    "description": "Lunch is served in the K.J.Peterson hall on the 2nd floor.",
+    "speakers": [],
+    "language": ""
+  }, {
+    "title": "Docker Workshop",
+    "startTime": "14:00",
+    "endTime": "14:45",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "room": "C.R.Jakobson II",
+    "speakers": [{
+      "name": "Priit Liivak",
+      "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "Testing for Developers",
+    "startTime": "15:00",
+    "endTime": "15:45",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "room": "C.R.Jakobson II",
+    "speakers": [{
+      "name": "Helena",
+      "avatar": "",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "Angular 2.0",
+    "startTime": "14:00",
+    "endTime": "14:45",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "room": "C.R.Jakobson II",
+    "speakers": [{
+      "name": "Justinas Simanavičius",
+      "avatar": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAJgAAAAJDhkOWNmZWM2LTkyOWYtNGIwZC04MThmLWRjZDI3YTI2OTVjOA.jpg",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "BDD with SpecFlow",
+    "startTime": "17:00",
+    "endTime": "17:45",
+    "room": "C.R.Jakobson I",
+    "description": "In this talk we’ll take a general look at BDD from the developers' point of view: what is it good for, what it’s not, what are the possible gains and risks. Examples are from the .NET world with SpecFlow, but well developed and similar tools are available for just about any platform.",
+    "speakers": [{
+      "name": "Henrik Lehtonen",
+      "avatar": "http://i.snag.gy/j84Yf.jpg",
+      "twitter": ""
+    }],
+    "language": "English"
+  }]
+}, {
+  "id": 3,
+  "title": "Testing",
+  "sessions": [{
+    "title": "KEYNOTE: Keynote title",
+    "startTime": "10:00",
+    "endTime": "10:45",
+    "room": "E. Wiiralt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "speakers": [{
+      "name": "",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+      "avatar": "",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "F12 Dev tool",
+    "startTime": "12:00",
+    "endTime": "12:45",
+    "room": "C.R.Jakobson I",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "speakers": [{
+      "name": "Rasmus Sööt",
+      "avatar": "http://www.gravatar.com/avatar/8b01a8b4d7a0a9079a4e97b1ddedbe56",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "LUNCH",
+    "startTime": "12:45",
+    "endTime": "14:00",
+    "room": "K.J.Peterson",
+    "description": "Lunch is served in the K.J.Peterson hall on the 2nd floor.",
+    "speakers": [],
+    "language": ""
+  }, {
+    "title": "Pair testing challenge (Workshop)",
+    "startTime": "14:00",
+    "endTime": "14:45",
+    "room": "B.Alver",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "speakers": [{
+      "name": "Irina Ivanova",
+      "avatar": "https://media.licdn.com/media/p/2/000/09c/3fe/1b7ef05.jpg",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "Pair testing challenge continues",
+    "startTime": "15:00",
+    "endTime": "15:45",
+    "room": "V.Panso",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "speakers": [{
+      "name": "Irina Ivanova",
+      "avatar": "https://media.licdn.com/media/p/2/000/09c/3fe/1b7ef05.jpg",
+      "twitter": ""
+    }],
+    "language": "English"
+  }, {
+    "title": "Keyword-driven testing",
+    "startTime": "16:30",
+    "endTime": "16:45",
+    "room": "V.Panso",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae sollicitudin nibh. Mauris in blandit eros, sit amet feugiat eros. Praesent placerat ante eget pharetra molestie. Nulla facilisi. Aliquam vel suscipit massa, non maximus purus. Nunc mauris turpis, imperdiet vel orci bibendum, dignissim aliquam erat. Fusce id consequat risus. Phasellus urna turpis, lacinia placerat mi eu, vulputate sagittis velit.",
+    "speakers": [{
+      "name": "Ardi Türk",
+      "avatar": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/064/311/31d19d5.jpg",
+      "twitter": ""
+    }],
+    "language": "English"
+  }]
+}]

@@ -1,0 +1,14 @@
+{
+  "name": "NortalTechDay",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.24",
+    "react-native": "^0.4.0",
+    "react-native-icons": "^0.0.3",
+    "url-join": "0.0.1"
+  }
+}
