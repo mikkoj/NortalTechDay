@@ -1,6 +1,8 @@
-# Nortal TechDay 2015 Conference React Native App
-![1](http://f.cl.ly/items/2i1T2V081L2d011B3q3n/nortal-techday-1.mov.gif)
-![2](http://f.cl.ly/items/2d0t3A3v0a1w1s3e1i3M/nortal-techday-2.mov.gif)
+### Nortal TechDay 2015 Conference React Native App
+<p align="center">
+  <img src="http://f.cl.ly/items/2i1T2V081L2d011B3q3n/nortal-techday-1.mov.gif" alt="" width="400 "/>
+  <img src="http://f.cl.ly/items/2d0t3A3v0a1w1s3e1i3M/nortal-techday-2.mov.gif" alt="" width="400 "/>
+</p>
 
 ## Dependencies
 - [TwitterKit](https://dev.twitter.com/twitter-kit/ios)
@@ -27,7 +29,7 @@
         }],
         "language": "English"
       }]
-    }]`
+    }]
 
 # License
 MIT
