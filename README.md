@@ -1,7 +1,7 @@
 ### Nortal TechDay 2015 Conference React Native App
 <p align="center">
-  <img src="http://f.cl.ly/items/2i1T2V081L2d011B3q3n/nortal-techday-1.mov.gif" alt="" width="400 "/>
-  <img src="http://f.cl.ly/items/2d0t3A3v0a1w1s3e1i3M/nortal-techday-2.mov.gif" alt="" width="400 "/>
+  <img src="http://res.cloudinary.com/mikkoj/image/upload/v1467118989/nortal-techday-1.mov_cxmyfz.gif" alt="" width="400 "/>
+  <img src="http://res.cloudinary.com/mikkoj/image/upload/v1467118990/nortal-techday-2.mov_1_vldpkb.gif" alt="" width="400 "/>
 </p>
 
 ## Dependencies
